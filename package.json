@@ -28,9 +28,10 @@
   ],
   "license": "MIT",
   "packageManager": "pnpm@10.15.0",
-  "dependencies": {
-    "react": "^19.1.1",
-    "react-dom": "^19.1.1"
+  "peerDependencies": {
+    "react": "^19",
+    "react-dom": "^19",
+    "cookie": "^1.0.0"
   },
   "devDependencies": {
     "@biomejs/biome": "^2.2.2",
