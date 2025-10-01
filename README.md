@@ -7,7 +7,7 @@ A tiny React component that conditionally renders its children based on the pres
 ### Installation
 
 ```bash
-pnpm add cookie
+pnpm add react-single-feature-flag
 ```
 
 ### Usage
@@ -60,7 +60,7 @@ Componente React simples que renderiza condicionalmente seus filhos com base na 
 ### Instalação
 
 ```bash
-pnpm add cookie
+pnpm add react-single-feature-flag
 ```
 
 ### Uso
@@ -113,7 +113,7 @@ Componente de React que renderiza condicionalmente sus hijos según la presencia
 ### Instalación
 
 ```bash
-pnpm add cookie
+pnpm add react-single-feature-flag
 ```
 
 ### Uso
