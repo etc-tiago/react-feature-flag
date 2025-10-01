@@ -13,7 +13,7 @@ pnpm add react-single-feature-flag
 ### Usage
 
 ```tsx
-import FeatureFlagGate from "./src";
+import FeatureFlagGate from "react-single-feature-flag";
 
 export function Example() {
   return (
@@ -29,7 +29,7 @@ export function Example() {
 Pass the raw `Cookie` request header string through the `cookieHeader` prop.
 
 ```tsx
-import FeatureFlagGate from "./src";
+import FeatureFlagGate from "react-single-feature-flag";
 
 export function ExampleSSR({ cookieHeader }: { cookieHeader: string }) {
   return (
@@ -66,7 +66,7 @@ pnpm add react-single-feature-flag
 ### Uso
 
 ```tsx
-import FeatureFlagGate from "./src";
+import FeatureFlagGate from "react-single-feature-flag";
 
 export function Exemplo() {
   return (
@@ -82,7 +82,7 @@ export function Exemplo() {
 Informe a string crua do header `Cookie` pela prop `cookieHeader`.
 
 ```tsx
-import FeatureFlagGate from "./src";
+import FeatureFlagGate from "react-single-feature-flag";
 
 export function ExemploSSR({ cookieHeader }: { cookieHeader: string }) {
   return (
@@ -119,7 +119,7 @@ pnpm add react-single-feature-flag
 ### Uso
 
 ```tsx
-import FeatureFlagGate from "./src";
+import FeatureFlagGate from "react-single-feature-flag";
 
 export function Ejemplo() {
   return (
@@ -135,7 +135,7 @@ export function Ejemplo() {
 Pase la cadena cruda del encabezado `Cookie` mediante la prop `cookieHeader`.
 
 ```tsx
-import FeatureFlagGate from "./src";
+import FeatureFlagGate from "react-single-feature-flag";
 
 export function EjemploSSR({ cookieHeader }: { cookieHeader: string }) {
   return (

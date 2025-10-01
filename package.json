@@ -1,6 +1,6 @@
 {
   "name": "react-single-feature-flag",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A client-based feature flag library for React - with cookies",
   "author": "Tiago de Souza Santos",
   "main": "dist/index.es.js",
